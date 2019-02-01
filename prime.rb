@@ -4,5 +4,5 @@ def prime?(number)
     return false
   end
   (2..number).each do |num|
-    if 
+    if (int % num )
 end
